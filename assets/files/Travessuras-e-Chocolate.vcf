@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
+N:;Travessuras e Chocolate;;;
+FN:Travessuras e Chocolate
+EMAIL;type=INTERNET;type=WORK;type=pref:contato@travessurasechocolate.com
+TEL;type=CELL;type=VOICE;type=pref:+55 61 9538-3904
+item1.URL;type=pref:https://travessurasechocolate.com/
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
