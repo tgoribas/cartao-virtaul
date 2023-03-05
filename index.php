@@ -75,9 +75,9 @@ require "configApp.php";
                                         <div class="col-12 px-3">
                                             <div class="d-grid gap-3">
                                             <button class="btn btn-transparent text-start" type="button" onclick="clipboardInput('input_copy')" ><i class="fas fa-copy"></i> Copiar</button>
-                                            <button class="btn btn-transparent text-start" type="button" onclick="window.open('assets/files/Travessuras-e-Chocolate.vcf')"><i class="fas fa-user-plus"></i> Baixar Contato</button>
+                                            <button class="btn btn-transparent text-start" type="button" onclick="window.open('assets/files/<?php echo $vcf?>')"><i class="fas fa-user-plus"></i> Baixar Contato</button>
                                             <button class="btn btn-transparent text-start" type="button"data-bs-toggle="modal" data-bs-target="#exampleModal"><i class="fas fa-share-alt"></i> Compartilhar</button>
-                                            <input type="hidden" name="input_copy" id="input_copy" value="texto value">
+                                            <input type="hidden" name="input_copy" id="input_copy" value="<?php echo $urlCartao?>">
                                             </div>
                                         </div>
  			      					</div>
@@ -106,7 +106,6 @@ require "configApp.php";
         </div>
         </div>
     </div>
-
 
     </main>
     <footer>

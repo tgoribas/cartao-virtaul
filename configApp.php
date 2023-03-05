@@ -3,6 +3,7 @@
 $urlCartao = "https://travessurasechocolate.com/cartao-virutal/";
 $urlWeb = "https://travessurasechocolate.com/";
 $title = "Travessuras e Chocolate";
+$vcf = "Travessuras-e-Chocolate.vcf";
 
 $btn1 = array(
     'title' => "Catálogo COokies",
