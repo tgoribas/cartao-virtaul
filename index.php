@@ -34,7 +34,7 @@ require "configApp.php";
                                         <label class="btn btn-flip text-white" for="flip_card"><i class="fas fa-share"></i></label>
                                         <img src="assets/images/logo-travessuras-chocolates.png" class="logo" alt="Logo Travessuras">
                                     </div>
-									<div class="pricing-wrap" style="margin-top: 150px;">
+									<div class="pricing-wrap" style="margin-top: 35px;">
                                         <div class="row px-4">
                                             <div class="col-4 text-center">
                                                 <a href="" class="btn btn-travessuras"><i class="<?php echo $btn1['icon']?>"></i></a>

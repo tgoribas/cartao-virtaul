@@ -6,7 +6,7 @@ $title = "Travessuras e Chocolate";
 $vcf = "Travessuras-e-Chocolate.vcf";
 
 $btn1 = array(
-    'title' => "Catálogo COokies",
+    'title' => "Catálogo Cookies",
     'icon' => "fas fa-cookie-bite",
     'link' => "https://drive.google.com/file/d/1ctGJIFk7fG2CwpMBoDls0m09u6HnqAIb/view?usp=sharing");
 
