@@ -68,7 +68,7 @@ require "configApp.php";
 								<div class="card-back bg-back">
                                     <div class="col-12 ">
                                         <label class="btn btn-flip text-white" for="flip_card"><i class="fas fa-share fa-flip-horizontal"></i></label>
-                                        <img src="assets/images/qrcode.gif" class="qrcode mt-4" alt="Logo Travessuras">
+                                        <img src="assets/images/qrcode-cartaovirtual.svg" class="qrcode mt-4" alt="Logo Travessuras">
                                         <p class="text-color-2 mt-2"><?php echo $title?></p>
                                     </div>
                                     <div class="pricing-wrap" style="margin-top: 150px;">
